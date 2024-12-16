@@ -108,7 +108,7 @@
 
   <!-- Footer -->
   <footer class="bg-gray-800 text-white py-6 text-center">
-    <p>&copy; 2024 Neha Chaudhari. All Rights Reserved.</p>
+    <p></p>
   </footer>
 </body>
 </html>
