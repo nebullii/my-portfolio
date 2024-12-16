@@ -6,7 +6,7 @@
   <meta name="description" content="Profile of Neha Chaudhari - Software Engineer and Graduate Student at Clark University.">
   <meta name="author" content="Neha Chaudhari">
   <meta name="keywords" content="Neha Chaudhari, software engineer, backend developer, portfolio">
-  <title>Neha Chaudhari - Portfolio</title>
+
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMqeG1NhZrX5mGYJtx2W3apKUea7r9fZfbwFGW9" crossorigin="anonymous">
 </head>
