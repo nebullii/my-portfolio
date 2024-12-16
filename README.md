@@ -79,7 +79,7 @@
       <h2 class="text-4xl font-bold text-gray-900 mb-4">Projects</h2>
       <div class="space-y-6">
         <div class="p-6 bg-gray-100 rounded shadow">
-          <h3 class="text-xl font-semibold text-gray-800">E-commerce Platform Indoor Plant</h3>
+          <h3 class="text-xl font-semibold text-gray-800">E-commerce Indoor Plant</h3>
           <p class="text-gray-700 mt-2">
             Designed a robust e-commerce platform integrating payment system, ensuring seamless user experiences.
           </p>
