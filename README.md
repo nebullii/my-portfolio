@@ -1,11 +1,10 @@
-# my-portfolio
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Profile of Neha Chaudhari - Software Engineer and Graduate Student at Clark University.">
-  <h3>Neha Chaudhari - Portfolio</h3>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMqeG1NhZrX5mGYJtx2W3apKUea7r9fZfbwFGW9" crossorigin="anonymous">
 </head>
